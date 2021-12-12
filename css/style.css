@@ -1,0 +1,15 @@
+body {
+    background: #7952b3;
+    background: linear-gradient(to right, #6528c0, #6f43b1, #9b68e9 );
+}
+
+.container {
+    overflow: hidden;
+}
+
+.container .img {
+    background-image: url(../img/szabo-viktor-7hqEx1al0Fk-unsplash.jpg);
+    background-size: cover;
+    background-position: center center;
+    min-height: 250px;
+}
